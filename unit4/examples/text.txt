@@ -1,0 +1,7 @@
+This is a text file!
+
+We are learning about fread!
+
+Computer Science
+
+copy.c
